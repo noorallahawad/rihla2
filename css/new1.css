@@ -1,0 +1,90 @@
+
+.about
+{
+    margin-top: -18PX;
+    
+}
+.navbar-default .navbar-brand 
+{
+    font-weight: bold;
+}
+.navbar-default .navbar-brand {
+    color: #af6e6e;
+}
+
+.navbar-default .navbar-brand span
+{
+    color:#0631cd;
+    
+}
+.navbar-inverse .navbar-brand
+{
+    background-color: #E0ECDE;
+  
+}
+.carousel-caption
+{
+    background-color:rgba(2, 2, 2, 0.4);
+    padding-top:0px;
+}
+.about h1
+{
+    color:#2e3987;
+}
+.about p{
+    line-height: 1.5;
+}
+.feet
+{
+    padding-bottom: 2px;
+   background-color: #E0ECDE; ;
+}
+.feet p
+{
+    margin-bottom: 20px;
+}
+.thumbnail img{
+    width: 100%;
+    height: 50%;
+}
+.item img{
+    background-color: rgba(2, 2, 2, 0.7);
+}
+.feet .img:hover
+{
+    background-color: rgba(167, 5, 5, 0.7);
+}
+.btn-primary
+{
+    background-color: #af6e6e;
+    border: 1px solid white;
+}
+.btn-primary:hover
+{
+    background-color: #0631cd;
+    color:white;
+    border:3px solid white;
+    
+}
+.glyphicon
+{
+    top:6px;
+}
+.contact
+{
+    background-color: #ddd;
+    height: 250px;
+}
+.contact p
+{
+    margin-top: 20px;
+}
+.cope{
+    background-color: #545151;
+    color:white;
+}
+.cope h5{
+    margin-top: 10px;
+    margin-bottom: 3px;
+    
+}
